@@ -8,14 +8,11 @@
 
 
 ## 🚀 Featured Projects
-## 🚀 Projects
+[![Knowledge Graph Exploration](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=Knowledge-Graph-Exploration&theme=default&description_lines_count=3)](https://github.com/ruibiaoo/Knowledge-Graph-Exploration)
+[![Adversarial CV – Speed Limit Signs](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=Adversarial-CV-Speed-Limit-Sign&theme=default&description_lines_count=3)](https://github.com/ruibiaoo/Adversarial-CV-Speed-Limit-Sign)
+[![LLM 3v3 Basketball Agents](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=llm-3v3-basketball-agents&theme=default&description_lines_count=3)](https://github.com/ruibiaoo/llm-3v3-basketball-agents)
+[![Language Models](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=language-models-embeddings-classification&theme=default&description_lines_count=3)](https://github.com/ruibiaoo/language-models-embeddings-classification)
 
-[![Knowledge Graph Exploration](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=Knowledge-Graph-Exploration)](https://github.com/ruibiaoo/Knowledge-Graph-Exploration)
-[![Adversarial CV – Speed Limit Signs](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=Adversarial-CV-Speed-Limit-Sign)](https://github.com/ruibiaoo/Adversarial-CV-Speed-Limit-Sign)
-[![LLM 3v3 Basketball Agents](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=llm-3v3-basketball-agents)](https://github.com/ruibiaoo/llm-3v3-basketball-agents)
-[![Language Model Embeddings Classification](https://github-readme-stats.shion.dev/api/pin?username=ruibiaoo&repo=language-models-embeddings-classification)](https://github.com/ruibiaoo/language-models-embeddings-classification)
-
-## Projects
 
 ## 🛠️ Tech stacks
 
